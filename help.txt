@@ -1,0 +1,5 @@
+# hello
+
+1.say hello,  say you, say me
+
+2.remote add origin git@github.com:[^^^^]
